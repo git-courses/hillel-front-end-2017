@@ -23,6 +23,7 @@ My main goal is to find a good job. I'll do my best.
    My hobbies music, sports cars and Muay Thai.
    
 7. Daniil I.
+<<<<<<< HEAD
 8. Daria Perepichko
 I like:
  - drawing, 
@@ -44,8 +45,19 @@ Favorite activities
   program
   like to sleep a lot
   love play gaming
-p.s. I want to start working on my profile as soon as possible :)
+p.s. I want to start working on my profile as soon as possible:)
 
+=======
+8. Daria P. 
+9. Max R.
+10. Dima Chalenko
+Favorite activities
+  .reading books (psychology, proramming)
+  .program
+  .like to sleep a lot
+  .love play gaming
+  p.s. I want to start working on my profile as soon as possible :)
+>>>>>>> 29349773eb83486dd8ae5a8c233931994d97bcb7
 11. Evgeniy Kanev
 Hobbies: 
  - traveling (especially hiking and climbing)
